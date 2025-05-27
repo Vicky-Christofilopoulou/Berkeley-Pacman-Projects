@@ -47,4 +47,4 @@ Additionally, experimented with evaluation function design to enhance agent perf
 ### How to Run
 
 ```python
-python pacman.py
+python autograder.py
